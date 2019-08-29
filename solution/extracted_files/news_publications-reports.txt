@@ -1,0 +1,1 @@
+{'title': 'news_publications-reports', 'url': 'https://www.concordia.ca/news/publications-reports.html', 'content': '\n\nFacebook\nTwitter\nLinkedIn\nPublications & reports\neNewsletters\nReports\nOther publications\n\n\n\n\n\n\nFacebook\n\n\n\n\nTwitter\n\n\n\n\nLinkedIn\n\n\n\n'}
